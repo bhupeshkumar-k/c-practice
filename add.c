@@ -17,3 +17,6 @@ int main()
      c=sum (a,b);
      d=sub (a,b);
 }
+void map()
+{
+}
